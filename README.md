@@ -1,6 +1,6 @@
 # HTML, CSS, & JavaScript Projects Portfolio
 
-Welcome to this repository! This collection showcases various tasks, assignments completed using foundational web development technologies: HTML, CSS, and JavaScript.
+This repository is a collection that showcases various tasks, assignments completed using foundational web development technologies: HTML, CSS, and JavaScript.
 
 This repository is designed to demonstrate practical skills in building user interfaces and implementing basic interactivity. Each project is contained within its own folder for easy navigation and review.
 
